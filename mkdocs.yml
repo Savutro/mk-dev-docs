@@ -1,0 +1,9 @@
+site_name: docs.savutro.dev
+nav: 
+  - Home: index.md
+  - 'User Guide':
+    - 'Writing your docs': 'test.md'
+  - About: about.md
+  - 'Test':
+    - 'Test'
+theme: dracula
